@@ -1,0 +1,147 @@
+{
+	"name": "Streadata.io API Gallery - Space",
+	"description": "This is a repository of space APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/space.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://space.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Aeronautics and Space Administration",
+			"x-api-slug": "national-aeronautics-and-space-administration",
+			"description": "The National Aeronautics and Space Administration (NASA) is the United States government agency that is responsible for the civilian space program as well as for aeronautics and aerospace research. President Dwight D. Eisenhower established the National Aeronautics and Space Administration (NASA) in 1958[5] with a distinctly civilian (rather than military) orientation encouraging peaceful applications in space science. The National Aeronautics and Space Act was passed on July 29, 1958, disestablishing NASAs predecessor, the National Advisory Committee for Aeronautics (NACA).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NASA_logo.svg.png",
+			"humanURL": "http://nasa.gov",
+			"baseURL": "https:///",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/national-aeronautics-and-space-administration/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Healthcare.gov",
+			"x-api-slug": "healthcare-gov",
+			"description": "HealthCare.gov is a health insurance exchange website operated under the United States federal government under the provisions of the Patient Protection and Affordable Care Act (ACA, often known as Obamacare), designed to serve the residents of the thirty-six U.S. states that opted not to create their own state exchanges. The exchange facilitates the sale of private health insurance plans to residents of the United States[2] and offers subsidies to those who earn less than four times the federal poverty line. The website also assists those persons who are eligible to sign up for Medicaid, and has a separate marketplace for small businesses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png",
+			"humanURL": "http://www.healthcare.gov",
+			"baseURL": "https://www.healthcare.gov//",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/healthcare-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Project Chronos",
+			"x-api-slug": "project-chronos",
+			"description": "This platform originates from the Hackathon SpaceApps Challenge 2014 and integrates information about space missions from NASA, ESA, and JAXA with our learn-by-playing paradigm to let you dive into space knowledge in an exciting way!The next era of space exploration will be driven by distributed and open exploration ventures. Thousands of rovers and micro-probes will be surfing the System, controlled by many private and public institutions and, eventually, by private citizens, with the goal of collecting and sharing data. Space is too vast to have restricted access: cheap technologies (micro-satellites, social participation, open challenges, private launchers), multidisciplinarity, and always more specialized knowledge are taking part to the race.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Project-Chronos-Logo.png",
+			"humanURL": "http://www.spacexplore.it/",
+			"baseURL": "https:///",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/project-chronos/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Asterank",
+			"x-api-slug": "asterank",
+			"description": "Asterank is a scientific and economic database of over 600,000 asteroids. Weve collected, computed, or inferred important data such as asteroid mass and composition from multiple scientific sources. With this information, we estimate the costs and rewards of mining asteroids. Details on orbits and basic physical parameters are sourced from the Minor Planet Center and NASA JPL. Composition data is based on spectral classification and size. Our calculations incorporate conclusions from multiple scientific publications in addition to cross-referencing known meteorite data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/asterank.png",
+			"humanURL": "http://www.asterank.com/",
+			"baseURL": "https:///",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/asterank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS WorkSpaces",
+			"x-api-slug": "aws-workspaces",
+			"description": "Amazon WorkSpaces is a fully managed, secure desktop computing service which runs on the AWS cloud. Amazon WorkSpaces allows you to easily provision cloud-based virtual desktops and provide your users access to the documents, applications, and resources they need from any supported device, including Windows and Mac computers, Chromebooks, iPads, Fire tablets, Android tablets, and Chrome and Firefox web browsers. With just a few clicks in the AWS Management Console, you can deploy high-quality cloud desktops for any number of users. With Amazon WorkSpaces, you pay either monthly or hourly just for the Amazon WorkSpaces you launch, which helps you save money when compared to traditional desktops and on-premises Virtual Desktop Infrastructure (VDI) solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Enterprise-Applications_AmazonWorkSpaces.png",
+			"humanURL": "https://aws.amazon.com/workspaces/",
+			"baseURL": ":///",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/aws-workspaces/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open Notify",
+			"x-api-slug": "open-notify",
+			"description": "A small project started to track when the ISS is overhead.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28265-open-notify-org.jpg",
+			"humanURL": "http://open-notify.org",
+			"baseURL": "https:///",
+			"tags": "Space",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/open-notify/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Space",
+	"include": [
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "National Aeronautics and Space Administration",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/national-aeronautics-and-space-administration/apis.yaml"
+		},
+		{
+			"name": "Healthcare.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/healthcare-gov/apis.yaml"
+		},
+		{
+			"name": "Project Chronos",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/project-chronos/apis.yaml"
+		},
+		{
+			"name": "Asterank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/asterank/apis.yaml"
+		},
+		{
+			"name": "AWS WorkSpaces",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/aws-workspaces/apis.yaml"
+		},
+		{
+			"name": "Open Notify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/space/master/_listings/open-notify/apis.yaml"
+		}
+	]
+}
